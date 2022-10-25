@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    background-color: #F4F4F4;
+    margin: 0;
+}
+section{
+    width: 25%;
+    border: solid aqua 0.2vw;
+    margin: 1%;
+    padding: 1%;
+}
+section div{
+    width: 50%;
+    background-color: cadetblue;
+    margin: 5% auto;
+    padding: 5%;
+}
+section article{
+    font-size: 1.8vw;
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 2%;
+}
